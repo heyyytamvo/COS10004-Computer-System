@@ -1,0 +1,3 @@
+Little Endian: First In Last Out
+
+Big Endian: Last In Last Out
